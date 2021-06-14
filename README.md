@@ -1,2 +1,2 @@
 # MASQH
-Matlab source code and application implementing the MASQH algorithm
+Matlab source code implementing the MASQH algorithm. Application will be comming by the end of august.
